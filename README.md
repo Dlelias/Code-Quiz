@@ -1,6 +1,8 @@
 # Code-Quiz
 
 ******  Description  *****
+
+
 This project was to create a timed quiz utilizing HTML, CSS, and JavaScript. The quiz consisted of 5 questions related to JavaScript questions. 
 
 A View Highscore hyperlink is located on the quiz as an option for the user to view highscores from previous users, if they highscores have not been cleared. 
@@ -23,6 +25,10 @@ The user will also have a Go back button option that wil take them to the beginn
 
 
 ******* Installation *********
+
+
+
+
 The link will be available through github
 
 his project was to create a timed quiz . The quiz consisted of 5 questions related to JavaScript
