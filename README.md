@@ -33,6 +33,4 @@ The user will also have a Go back button option that wil take them to the beginn
 
 The link will be available through github
 
-his project was to create a timed quiz . The quiz consisted of 5 questions related to JavaScript
-
-The user get 60 seconds to answer 5 question, the tieme begins count down  as soon as the 
+https://dlelias.github.io/Code-Quiz/
