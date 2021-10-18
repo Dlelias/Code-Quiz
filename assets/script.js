@@ -163,7 +163,7 @@ function gameOver() {
             var newScore = JSON.stringify(allScores);
             localStorage.setItem("allScores", newScore);
             // Travels to final page
-            window.location.replace("./highscores.html");
+            window.location.replace("/highscores.html");
         }
     });
     
